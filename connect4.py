@@ -130,8 +130,3 @@ while not gameOver:
             else:
                 pygame.display.update()
             
-
-
-       
-
-
